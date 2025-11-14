@@ -26,7 +26,7 @@ progressTrack.addEventListener("click", (e) => {
     const percent = clickX / rect.width;
     View.audio.currentTime = percent * View.audio.duration;
 });
-
+ss
 
     },
 

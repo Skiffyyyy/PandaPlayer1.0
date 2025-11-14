@@ -10,7 +10,7 @@ const Model = {
         'Team 7 Panda Express song 3.mp3',
         'Team 7 Panda Express song 4.mp3',
         'In Our Team We Feel at Home.mp3',
-        'Weekend Is Here 4.mp3'
+        'Weekend Is Here.mp3'
     ],
     current: 0,
 

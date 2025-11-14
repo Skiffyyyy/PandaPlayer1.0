@@ -25,7 +25,7 @@ const View = {
                 <!-- Kontroller -->
                 <div class="controls">
                     <button id="prev">⏮️</button>
-                    <button id="playpause">▶️</button>
+                    <button id="playpause">⏯️</button>
                     <button id="next">⏭️</button>
                 </div>
 
