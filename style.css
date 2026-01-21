@@ -59,6 +59,7 @@ h2 {
     background: #1e1e1e;
     transition: all 0.3s ease;
     cursor: pointer;
+    font-size: 100%;
 }
 
 #playlist li:hover {
