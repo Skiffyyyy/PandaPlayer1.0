@@ -13,6 +13,10 @@ const Model = {
         'Weekend Is Here.mp3',
         'C++.mp3',
         'Panda Express Forever.mp3',
+        'Frontline.mp3',
+        'Warriors.mp3',
+        'World of Warcraft.mp3',
+        'Fallen of the chosen one.mp3',
     ],
     current: 0,
 
