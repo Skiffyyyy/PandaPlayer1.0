@@ -17,6 +17,7 @@ const Model = {
         'Warriors.mp3',
         'World of Warcraft.mp3',
         'Fallen of the chosen one.mp3',
+        'Blood and Honor.mp3',
     ],
     current: 0,
 
